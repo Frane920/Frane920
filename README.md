@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frane920
+- 👋 Hi, I’m @Frane92
 - 👀 I’m interested in programming and linux
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
